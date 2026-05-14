@@ -138,11 +138,9 @@
 
 | Feature | Description |
 |---|---|
-| 🏢 Multi-Branch| Manage jobs and applications across office branches |
-| 🔔 Real-time Updates | Instant OTP & automated email notifications |
-| 🤖 Smart Search | Live search engine with advanced filtering |
-| 📊 Dashboard | Real-time hiring progress and branch performance stats |
-| 📱 Responsive UI | Optimized for mobile, tablet, and desktop |
+| 🏢 Multi-Branch | Manage jobs across office branches |
+| 🔔 Real-time Updates | Automated email & OTP notifications |
+| 🤖 Smart Search | Advanced filtering & recommendations |
 
 **🛠️ Stack**
 
@@ -186,10 +184,8 @@
 | Feature | Description |
 |---|---|
 | 📊 Dual Tasks | Classification (UP/DOWN) + Regression (price prediction) |
-| 🧠 Model Comparison | Logistic Regression, Random Forest, SVM, XGBoost, LSTM |
-| 📉 Technical Features | SMA, EMA, RSI, MACD indicators engineered |
-| ⏱️ Time-Series LSTM | 60-day look-back window with sequential data |
-| 📈 Evaluation Metrics | Accuracy, Precision, Recall, F1-Score, Confusion Matrix |
+| 🧠 Model Ensemble | RF, SVM, XGBoost, LSTM comparison |
+| ⏱️ LSTM Time-Series | 60-day sequences with technical indicators |
 
 **🛠️ Stack**
 
@@ -232,11 +228,9 @@
 
 | Feature | Description |
 |---|---|
-| 🔬 97%+ Accuracy | Benchmarked on Kaggle Chest X-Ray dataset |
-| 🖼️ Grad-CAM XAI | Heatmap overlays for explainable predictions |
-| ⚡ Fast Inference | TensorRT-optimized, sub-second response time |
-| 🌐 REST API | Hospital-system-ready diagnostic endpoint |
-| 📋 Confidence Reports | Structured diagnostic output per scan |
+| 🔬 97%+ Accuracy | ResNet-50 transfer learning on X-rays |
+| 🖼️ Grad-CAM XAI | Explainable heatmap visualization |
+| 🌐 REST API | Production-ready endpoint |
 
 **🛠️ Stack**
 
@@ -279,11 +273,9 @@
 
 | Feature | Description |
 |---|---|
-| 🧠 RAG Pipeline | Vector-based semantic retrieval with Pinecone |
-| 💾 Persistent Memory | Per-user conversation history management |
-| 🛠️ Tool Use | Function calling & external API integration |
-| 🌍 Multilingual | 10+ language support built-in |
-| 🔒 Auth & Rate Limiting | Enterprise-grade security layer |
+| 🧠 RAG Pipeline | Vector DB semantic retrieval |
+| 💾 Memory Management | Persistent conversation history |
+| 🔒 Enterprise Security | Auth & rate limiting |
 
 **🛠️ Stack**
 
@@ -324,13 +316,11 @@
 
 > **Where research meets reality.** A curated suite of deep learning implementations across computer vision, NLP, and generative AI — each with full documentation, benchmark results, and deployment-ready code.
 
-| Project | Architecture | Highlight |
-|---|---|---|
-| 🖼️ GAN Image Synthesis | DCGAN / StyleGAN | Custom training pipeline |
-| 📝 Sentiment Analysis | BERT Fine-tuned | Domain-specific NLP |
-| 🔤 Neural Translation | Seq2Seq + Attention | Multi-language support |
-| 🎯 Object Detection | YOLOv8 | Custom dataset training |
-| 🔊 Audio Classification | CNN on Mel-spectrograms | 95%+ accuracy |
+| Project | Highlight |
+|---|---|
+| 🖼️ GAN Image Synthesis | DCGAN / StyleGAN training |
+| 📝 Sentiment Analysis | BERT fine-tuned models |
+| 🎯 Object Detection | YOLOv8 on custom datasets |
 
 **🛠️ Stack**
 
