@@ -18,7 +18,7 @@
 
 <!-- NEON SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300D4FF.svg?style=for-the-badge&logo=linkedin&logoColor=0A0A0A)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-%2300D4FF.svg?style=for-the-badge&logo=github&logoColor=0A0A0A)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-%2300D4FF.svg?style=for-the-badge&logo=github&logoColor=0A0A0A)](https://github.com/mirza1272)
 [![Email](https://img.shields.io/badge/Email-%2300D4FF.svg?style=for-the-badge&logo=gmail&logoColor=0A0A0A)](mailto:your@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300D4FF.svg?style=for-the-badge&logo=vercel&logoColor=0A0A0A)](https://yourportfolio.com)
 
