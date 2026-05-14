@@ -544,28 +544,6 @@ MLOps at Scale ──────────── 🔄
 
 </div>
 
----
-
-<div align="center">
-
-## ⚡ &nbsp; F U N &nbsp; F A C T
-
-</div>
-
-```
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║                                                                      ║
-  ║  ⚡  I've fine-tuned models at 3am more times than I've slept on    ║
-  ║     schedule. Debugging a neural net is just reasoning at scale.    ║
-  ║                                                                      ║
-  ║  🧩  I treat architecture the way a chess grandmaster treats the    ║
-  ║     board — see 10 moves ahead, then simplify to the elegant move.  ║
-  ║                                                                      ║
-  ║  ☕  My debugging stack: Green tea + rubber duck + stack trace.     ║
-  ║     In that order. Every time.                                       ║
-  ║                                                                      ║
-  ╚══════════════════════════════════════════════════════════════════════╝
-```
 
 ---
 
