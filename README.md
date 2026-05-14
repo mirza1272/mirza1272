@@ -264,13 +264,15 @@
 
 <br/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=mirza1272&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00e5ff&icon_color=00b8d4&text_color=b2ebf2&count_private=true&include_all_commits=true"/>
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirza1272&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00e5ff&text_color=b2ebf2&layout=compact&langs_count=8"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mirza1272&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00e5ff&fire=00b8d4&currStreakLabel=00e5ff&sideLabels=b2ebf2&dates=9d8ca0&currStreakNum=ffffff&sideNums=ffffff" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mirza1272&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00e5ff&fire=00b8d4&currStreakLabel=00e5ff&sideLabels=b2ebf2&dates=9d8ca0&currStreakNum=ffffff&sideNums=ffffff" width="65%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mirza1272&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00e5ff&icon_color=00b8d4&text_color=b2ebf2&count_private=true&include_all_commits=true" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirza1272&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00e5ff&text_color=b2ebf2&layout=compact&langs_count=8" width="100%"/>
 
 </div>
 
