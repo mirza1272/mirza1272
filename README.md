@@ -268,13 +268,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mirza1272&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00e5ff&icon_color=00b8d4&text_color=b2ebf2&count_private=true&include_all_commits=true" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirza1272&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00e5ff&text_color=b2ebf2&layout=compact&langs_count=8" width="100%"/>
-
-</div>
 
 ---
 
