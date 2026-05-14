@@ -138,7 +138,7 @@
 
 | Feature | Description |
 |---|---|
-| 🏢 Multi-Branch Mgmt | Manage jobs and applications across office branches |
+| 🏢 Multi-Branch| Manage jobs and applications across office branches |
 | 🔔 Real-time Updates | Instant OTP & automated email notifications |
 | 🤖 Smart Search | Live search engine with advanced filtering |
 | 📊 Dashboard | Real-time hiring progress and branch performance stats |
@@ -173,36 +173,36 @@
 
 <div align="center">
 
-## 📈 &nbsp; Stock Prediction System
-### *AI-Powered Market Intelligence Engine*
+## 📈 &nbsp; Stock Price Prediction System
+### *Machine Learning & LSTM Time-Series Forecasting*
 
-[![Status](https://img.shields.io/badge/STATUS-LIVE-00e5ff?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272)
-[![Type](https://img.shields.io/badge/TYPE-DEEP_LEARNING_%2B_FINTECH-00b8d4?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272)
+[![Status](https://img.shields.io/badge/STATUS-COMPLETE-00e5ff?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272/stock-price-prediction)
+[![Type](https://img.shields.io/badge/TYPE-ML_%2B_DEEP_LEARNING-00b8d4?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272/stock-price-prediction)
 
 </div>
 
-> **Markets generate noise. This system extracts signal.** A multi-modal deep learning engine that fuses LSTM time-series forecasting with real-time sentiment analysis from financial news — trained on years of market data, deployed with sub-second inference.
+> **End-to-end ML pipeline for stock forecasting.** Compares classical machine learning models with LSTM deep learning for both classification (UP/DOWN) and regression (price prediction) tasks using technical indicators.
 
 | Feature | Description |
 |---|---|
-| 🧠 LSTM + Transformer | Hybrid architecture for temporal pattern capture |
-| 📰 Sentiment Engine | Real-time NLP on financial news feeds |
-| 📉 30+ Indicators | RSI, MACD, Bollinger Bands as engineered features |
-| 🎯 Multi-Horizon | Forecast windows: 1-day, 7-day, 30-day |
-| 📊 Live Dashboard | Plotly-powered interactive visualization UI |
+| 📊 Dual Tasks | Classification (UP/DOWN) + Regression (price prediction) |
+| 🧠 Model Comparison | Logistic Regression, Random Forest, SVM, XGBoost, LSTM |
+| 📉 Technical Features | SMA, EMA, RSI, MACD indicators engineered |
+| ⏱️ Time-Series LSTM | 60-day look-back window with sequential data |
+| 📈 Evaluation Metrics | Accuracy, Precision, Recall, F1-Score, Confusion Matrix |
 
 **🛠️ Stack**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0e1a?style=flat-square&logo=pytorch&logoColor=00e5ff)
 ![Python](https://img.shields.io/badge/Python-0a0e1a?style=flat-square&logo=python&logoColor=00e5ff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0e1a?style=flat-square&logo=tensorflow&logoColor=00e5ff)
+![Keras](https://img.shields.io/badge/Keras-0a0e1a?style=flat-square&logo=keras&logoColor=00e5ff)
+![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-0a0e1a?style=flat-square&logo=scikitlearn&logoColor=00e5ff)
+![XGBoost](https://img.shields.io/badge/XGBoost-0a0e1a?style=flat-square&logo=python&logoColor=00e5ff)
 ![Pandas](https://img.shields.io/badge/Pandas-0a0e1a?style=flat-square&logo=pandas&logoColor=00e5ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0e1a?style=flat-square&logo=fastapi&logoColor=00e5ff)
-![Plotly](https://img.shields.io/badge/Plotly-0a0e1a?style=flat-square&logo=plotly&logoColor=00e5ff)
-![Redis](https://img.shields.io/badge/Redis-0a0e1a?style=flat-square&logo=redis&logoColor=00e5ff)
 
 <div align="center">
 
-[![View on GitHub](https://img.shields.io/badge/VIEW_ON_GITHUB-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mirza1272/stock-prediction)
+[![View on GitHub](https://img.shields.io/badge/VIEW_ON_GITHUB-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mirza1272/stock-price-prediction)
 
 </div>
 <br/>
