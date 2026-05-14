@@ -264,7 +264,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mirza1272&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00e5ff&fire=00b8d4&currStreakLabel=00e5ff&sideLabels=b2ebf2&dates=9d8ca0&currStreakNum=ffffff&sideNums=ffffff" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mirza1272&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00e5ff&fire=00b8d4&currStreakLabel=00e5ff&sideLabels=b2ebf2&dates=9d8ca0&currStreakNum=ffffff&sideNums=ffffff&v=2" width="100%"/>
 
 <br/>
 
