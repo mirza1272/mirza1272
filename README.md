@@ -42,7 +42,7 @@
 
 <br/>
 
-🌍 &nbsp; **Location &nbsp;→** &nbsp; Pakistan 🇵🇰 <br/>
+🌍 &nbsp; **Location &nbsp;→** &nbsp; Pakistan <br/>
 🎓 &nbsp; **Education &nbsp;→** &nbsp; BS Computer Science <br/>
 💡 &nbsp; **Specialty &nbsp;→** &nbsp; MERN · Machine Learning · Deep Learning <br/>
 🎯 &nbsp; **Mission &nbsp;→** &nbsp; Ship AI that creates real value
@@ -59,49 +59,6 @@
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,12,6,0&height=2" width="100%"/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CURRENT FOCUS                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ⚡ &nbsp; C U R R E N T &nbsp; F O C U S
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 &nbsp; What I'm Building
-&nbsp;&nbsp;&nbsp;`▸` &nbsp; Production-grade AI inference pipelines
-&nbsp;&nbsp;&nbsp;`▸` &nbsp; LLM fine-tuning with RLHF & LoRA
-&nbsp;&nbsp;&nbsp;`▸` &nbsp; RAG systems for enterprise knowledge bases
-&nbsp;&nbsp;&nbsp;`▸` &nbsp; Full-stack AI SaaS from zero to deployment
-&nbsp;&nbsp;&nbsp;`▸` &nbsp; Computer Vision for medical imaging
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 &nbsp; Learning Journey
-
-```
-ML Foundations ──────────── ✅
-Deep Learning ───────────── ✅
-Computer Vision ─────────── ✅
-NLP & Transformers ──────── ✅
-LLMs & Prompt Engineering ─ ✅
-RAG & Vector DBs ───────── 🔄
-AI Agents & Multi-Agent ── 🔄
-MLOps at Scale ──────────── 🔄
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
