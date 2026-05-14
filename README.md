@@ -14,6 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=00e5ff)](https://linkedin.com/in/haseeb-ur-rahman-8b152234b)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mirza1272)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0e1a?style=for-the-badge&logo=google-chrome&logoColor=00e5ff)](https://www.mirzahaseeb.me)
 [![Email](https://img.shields.io/badge/Email-0a0e1a?style=for-the-badge&logo=gmail&logoColor=00e5ff)](mailto:mirzahaseeb0566@gmail.com)
 
 </div>
@@ -44,6 +45,7 @@
 
 🌍 &nbsp; **Location &nbsp;→** &nbsp; Pakistan <br/>
 🎓 &nbsp; **Education &nbsp;→** &nbsp; BS Computer Science <br/>
+🌐 &nbsp; **Portfolio &nbsp;→** &nbsp; [mirzahaseeb.me](https://www.mirzahaseeb.me) <br/>
 💡 &nbsp; **Specialty &nbsp;→** &nbsp; MERN · Machine Learning · Deep Learning <br/>
 🎯 &nbsp; **Mission &nbsp;→** &nbsp; Ship AI that creates real value
 
@@ -401,6 +403,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=00e5ff)](https://linkedin.com/in/haseeb-ur-rahman-8b152234b)
+&nbsp;
+[![Website](https://img.shields.io/badge/Visit_Portfolio-0a0e1a?style=for-the-badge&logo=google-chrome&logoColor=00e5ff)](https://www.mirzahaseeb.me)
 &nbsp;
 [![Email](https://img.shields.io/badge/Send_an_Email-0a0e1a?style=for-the-badge&logo=gmail&logoColor=00e5ff)](mailto:mirzahaseeb0566@gmail.com)
 &nbsp;
