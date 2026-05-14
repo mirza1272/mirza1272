@@ -279,13 +279,8 @@
 
 <div align="center">
 
-## 🌐 &nbsp; C O N T R I B U T I O N &nbsp; G R A P H
+## 🐍 &nbsp; C O N T R I B U T I O N &nbsp; S N A K E
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mirza1272&bg_color=0a0e1a&color=00e5ff&line=00b8d4&point=b2ebf2&area=true&area_color=0d2a3a&hide_border=true&cache=false)](https://github.com/mirza1272)
-
-<br/>
-
-### 🐍 &nbsp; Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mirza1272/mirza1272/output/github-contribution-grid-snake-dark.svg">
@@ -313,41 +308,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                LEADERSHIP & ENGINEERING MINDSET               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-## 🧭 &nbsp; E N G I N E E R I N G &nbsp; M I N D S E T
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ &nbsp; System Design Thinking
-&nbsp;&nbsp;&nbsp;`▸` &nbsp; Scalability-first architecture decisions
-&nbsp;&nbsp;&nbsp;`▸` &nbsp; Event-driven & microservices patterns
-&nbsp;&nbsp;&nbsp;`▸` &nbsp; API-first design with contract clarity
-&nbsp;&nbsp;&nbsp;`▸` &nbsp; Observability baked into every system
-&nbsp;&nbsp;&nbsp;`▸` &nbsp; Trade-off analysis before every decision
-
-</td>
-<td width="50%" valign="top">
-
-### 👥 &nbsp; Leadership Approach
-&nbsp;&nbsp;&nbsp;`▸` &nbsp; Documentation-heavy, async-friendly culture
-&nbsp;&nbsp;&nbsp;`▸` &nbsp; Data-driven decisions, never gut-feel only
-&nbsp;&nbsp;&nbsp;`▸` &nbsp; Mentor-first — elevate the whole team
-&nbsp;&nbsp;&nbsp;`▸` &nbsp; Ship iteratively, validate continuously
-&nbsp;&nbsp;&nbsp;`▸` &nbsp; Code review as a knowledge transfer tool
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  OPEN SOURCE GOALS                            -->
@@ -381,7 +342,7 @@
 
 <br/><br/>
 
-> *✦ &nbsp; "The goal isn't to write code that works. It's to architect systems that scale, survive, and think." &nbsp; ✦*
+> *✦ &nbsp; "I don't just build models — I architect the intelligence that bridges the gap between raw data and real-world impact." &nbsp; ✦*
 >
 > — Haseeb ur Rahman
 
