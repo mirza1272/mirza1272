@@ -127,36 +127,35 @@
 <div align="center">
 
 ## 🏢 &nbsp; HRConnect ATS
-### *Intelligent Applicant Tracking System*
+### *Multi-Branch Recruitment & Applicant Tracking System*
 
-[![Status](https://img.shields.io/badge/STATUS-PRODUCTION_READY-00e5ff?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272)
-[![Type](https://img.shields.io/badge/TYPE-AI_%2B_FULL_STACK-00b8d4?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272)
+[![Status](https://img.shields.io/badge/STATUS-LIVE-00e5ff?style=flat-square&labelColor=0a0e1a)](https://hrconnect-ats.vercel.app)
+[![Type](https://img.shields.io/badge/TYPE-FULL_STACK_MERN-00b8d4?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272/Multi-Branch-Recruitment-and-Applicant-Tracking-System)
 
 </div>
 
-> **The hiring process is broken. HRConnect fixes it** — an end-to-end AI-powered ATS that automates resume screening, ranks candidates with NLP intelligence, and eliminates bias from the pipeline. From job post to offer letter, fully automated.
+> **Streamline recruitment across multiple branches.** A premium full-stack ATS with real-time notifications, automated status updates, smart recommendation system, and role-based access control for candidates and recruiters.
 
 | Feature | Description |
 |---|---|
-| 🤖 AI Resume Parsing | NLP-driven candidate extraction & scoring |
-| 📊 Analytics Dashboard | Real-time pipeline metrics & funnel tracking |
-| 🔄 Workflow Automation | Trigger-based email, scheduling, and status updates |
-| 🔐 RBAC System | Granular permissions for HR, Interviewers, Admins |
-| 📱 Mobile-First UI | Fully responsive across all devices |
+| 🏢 Multi-Branch Mgmt | Manage jobs and applications across office branches |
+| 🔔 Real-time Updates | Instant OTP & automated email notifications |
+| 🤖 Smart Search | Live search engine with advanced filtering |
+| 📊 Dashboard | Real-time hiring progress and branch performance stats |
+| 📱 Responsive UI | Optimized for mobile, tablet, and desktop |
 
 **🛠️ Stack**
 
-![Python](https://img.shields.io/badge/Python-0a0e1a?style=flat-square&logo=python&logoColor=00e5ff)
-![Django](https://img.shields.io/badge/Django-0a0e1a?style=flat-square&logo=django&logoColor=00e5ff)
 ![React](https://img.shields.io/badge/React-0a0e1a?style=flat-square&logo=react&logoColor=00e5ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e1a?style=flat-square&logo=postgresql&logoColor=00e5ff)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0e1a?style=flat-square&logo=huggingface&logoColor=00e5ff)
-![Docker](https://img.shields.io/badge/Docker-0a0e1a?style=flat-square&logo=docker&logoColor=00e5ff)
-![Redis](https://img.shields.io/badge/Redis-0a0e1a?style=flat-square&logo=redis&logoColor=00e5ff)
+![Node.js](https://img.shields.io/badge/Node.js-0a0e1a?style=flat-square&logo=nodedotjs&logoColor=00e5ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0e1a?style=flat-square&logo=mongodb&logoColor=00e5ff)
+![SendGrid](https://img.shields.io/badge/SendGrid-0a0e1a?style=flat-square&logo=sendgrid&logoColor=00e5ff)
+![Supabase](https://img.shields.io/badge/Supabase-0a0e1a?style=flat-square&logo=supabase&logoColor=00e5ff)
+![JWT](https://img.shields.io/badge/JWT-0a0e1a?style=flat-square&logo=auth0&logoColor=00e5ff)
 
 <div align="center">
 
-[![View on GitHub](https://img.shields.io/badge/VIEW_ON_GITHUB-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mirza1272/hrconnect-ats)
+[![View on GitHub](https://img.shields.io/badge/VIEW_ON_GITHUB-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mirza1272/Multi-Branch-Recruitment-and-Applicant-Tracking-System)
 
 </div>
 <br/>
