@@ -252,7 +252,7 @@
 </table>
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   GITHUB STATS                                -->
@@ -269,7 +269,7 @@
 <br/>
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                 CONTRIBUTION GRAPH + SNAKE                    -->
@@ -293,7 +293,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
 
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -308,7 +308,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                LEADERSHIP & ENGINEERING MINDSET               -->
@@ -345,7 +345,7 @@
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  OPEN SOURCE GOALS                            -->
@@ -365,7 +365,7 @@
 | 🚀 Ship 3+ open-source projects with 100+ GitHub stars | 🎯 Target |
 | 🌱 Mentor 50+ developers on the AI/ML path by 2026 | 🎯 Target |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  QUOTE + FUN FACT                             -->
@@ -385,7 +385,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
 
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
