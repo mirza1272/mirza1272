@@ -60,22 +60,6 @@
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,12,6,0&height=2" width="100%"/>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,12,6,0&height=3" width="100%"/>
-
-</div>
-
----
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,12,6,0&height=3" width="100%"/>
-
-</div>
-
----
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   TECH STACK                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
