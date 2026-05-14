@@ -338,11 +338,7 @@
 
 ## 💬 &nbsp; P H I L O S O P H Y
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
-
-<br/><br/>
-
-> *✦ &nbsp; "I don't just build models — I architect the intelligence that bridges the gap between raw data and real-world impact." &nbsp; ✦*
+> *✦ &nbsp; "I am a lifelong student of intelligence, committed to the continuous journey of learning, unlearning, and evolving to architect a better future." &nbsp; ✦*
 >
 > — Haseeb ur Rahman
 
