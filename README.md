@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0a0e1a,50:0d1f3c,100:0a1628&text=Haseeb%20ur%20Rahman&fontSize=58&fontColor=e0f7fa&fontAlignY=42&stroke=00e5ff&strokeWidth=2&desc=AI%20Engineer%20and%20MERN%20Developer&descSize=16&descAlignY=65&descColor=80deea&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0a0e1a,50:0d1f3c,100:0a1628&text=Haseeb%20ur%20Rahman&fontSize=58&fontColor=e0f7fa&fontAlignY=42&stroke=00e5ff&strokeWidth=2&desc=AI%20Engineer%20%E2%80%A2%20MERN%20Developer&descSize=16&descAlignY=65&descColor=80deea&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -34,7 +34,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td align="left" width="55%">
+<td align="left">
 
 ### 〔 &nbsp;**Haseeb ur Rahman**&nbsp; 〕
 
@@ -51,11 +51,6 @@
 <br/>
 
 > *"I don't just build models — I engineer systems that think, adapt, and scale."*
-
-</td>
-<td align="center" width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mirza1272&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00e5ff&icon_color=00b8d4&text_color=b2ebf2&count_private=true&rank_icon=github" width="100%"/>
 
 </td>
 </tr>
