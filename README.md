@@ -71,38 +71,34 @@
 ### 🧠 &nbsp; AI · Machine Learning · Deep Learning
 
 ![Python](https://img.shields.io/badge/Python-0a0e1a?style=for-the-badge&logo=python&logoColor=00e5ff)
+![NumPy](https://img.shields.io/badge/NumPy-0a0e1a?style=for-the-badge&logo=numpy&logoColor=00e5ff)
+![Pandas](https://img.shields.io/badge/Pandas-0a0e1a?style=for-the-badge&logo=pandas&logoColor=00e5ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0e1a?style=for-the-badge&logo=python&logoColor=00e5ff)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0a0e1a?style=for-the-badge&logo=scikitlearn&logoColor=00e5ff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0a0e1a?style=for-the-badge&logo=pytorch&logoColor=00e5ff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0e1a?style=for-the-badge&logo=tensorflow&logoColor=00e5ff)
 ![Keras](https://img.shields.io/badge/Keras-0a0e1a?style=for-the-badge&logo=keras&logoColor=00e5ff)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0e1a?style=for-the-badge&logo=huggingface&logoColor=00e5ff)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0a0e1a?style=for-the-badge&logo=scikitlearn&logoColor=00e5ff)
-![OpenCV](https://img.shields.io/badge/OpenCV-0a0e1a?style=for-the-badge&logo=opencv&logoColor=00e5ff)
-![LangChain](https://img.shields.io/badge/LangChain-0a0e1a?style=for-the-badge&logo=chainlink&logoColor=00e5ff)
-![NLTK](https://img.shields.io/badge/NLTK-0a0e1a?style=for-the-badge&logo=python&logoColor=00e5ff)
-![Pandas](https://img.shields.io/badge/Pandas-0a0e1a?style=for-the-badge&logo=pandas&logoColor=00e5ff)
-![NumPy](https://img.shields.io/badge/NumPy-0a0e1a?style=for-the-badge&logo=numpy&logoColor=00e5ff)
+
 
 ### ⚡ &nbsp; Full Stack Development
 
+![HTML](https://img.shields.io/badge/HTML-0a0e1a?style=for-the-badge&logo=html5&logoColor=00e5ff)
+![CSS](https://img.shields.io/badge/CSS-0a0e1a?style=for-the-badge&logo=css3&logoColor=00e5ff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0e1a?style=for-the-badge&logo=bootstrap&logoColor=00e5ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0e1a?style=for-the-badge&logo=javascript&logoColor=00e5ff)
 ![React](https://img.shields.io/badge/React-0a0e1a?style=for-the-badge&logo=react&logoColor=00e5ff)
 ![Next.js](https://img.shields.io/badge/Next.js-0a0e1a?style=for-the-badge&logo=nextdotjs&logoColor=00e5ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0e1a?style=for-the-badge&logo=typescript&logoColor=00e5ff)
 ![Node.js](https://img.shields.io/badge/Node.js-0a0e1a?style=for-the-badge&logo=nodedotjs&logoColor=00e5ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0e1a?style=for-the-badge&logo=fastapi&logoColor=00e5ff)
 ![Django](https://img.shields.io/badge/Django-0a0e1a?style=for-the-badge&logo=django&logoColor=00e5ff)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0a0e1a?style=for-the-badge&logo=tailwindcss&logoColor=00e5ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0e1a?style=for-the-badge&logo=javascript&logoColor=00e5ff)
 
-### 🗄️ &nbsp; Databases · DevOps · Cloud
+### 🗄️ &nbsp; Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e1a?style=for-the-badge&logo=postgresql&logoColor=00e5ff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0a0e1a?style=for-the-badge&logo=mongodb&logoColor=00e5ff)
-![Redis](https://img.shields.io/badge/Redis-0a0e1a?style=for-the-badge&logo=redis&logoColor=00e5ff)
-![Pinecone](https://img.shields.io/badge/Pinecone-0a0e1a?style=for-the-badge&logo=pinecone&logoColor=00e5ff)
 ![AWS](https://img.shields.io/badge/AWS-0a0e1a?style=for-the-badge&logo=amazonaws&logoColor=00e5ff)
-![Docker](https://img.shields.io/badge/Docker-0a0e1a?style=for-the-badge&logo=docker&logoColor=00e5ff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0a0e1a?style=for-the-badge&logo=githubactions&logoColor=00e5ff)
-![Linux](https://img.shields.io/badge/Linux-0a0e1a?style=for-the-badge&logo=linux&logoColor=00e5ff)
+![Supabase](https://img.shields.io/badge/Supabase-0a0e1a?style=for-the-badge&logo=supabase&logoColor=00e5ff)
+![Appwrite](https://img.shields.io/badge/Appwrite-0a0e1a?style=for-the-badge&logo=appwrite&logoColor=00e5ff)
 
 </div>
 
