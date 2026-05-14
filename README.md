@@ -279,7 +279,7 @@
 
 ## 🌐 &nbsp; C O N T R I B U T I O N &nbsp; G R A P H
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mirza1272&bg_color=0a0e1a&color=00e5ff&line=00b8d4&point=b2ebf2&area=true&area_color=0d2a3a&hide_border=true)](https://github.com/mirza1272)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mirza1272&bg_color=0a0e1a&color=00e5ff&line=00b8d4&point=b2ebf2&area=true&area_color=0d2a3a&hide_border=true&cache=false)](https://github.com/mirza1272)
 
 <br/>
 
