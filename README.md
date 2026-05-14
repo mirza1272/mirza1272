@@ -12,7 +12,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e1a?style=for-the-badge&logo=LinkedIn&logoColor=00e5ff)](https://linkedin.com/in/haseeb-ur-rahman-8b152234b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e1a?style=for-the-badge&logo=https://cdn.simpleicons.org/linkedin/00e5ff)](https://linkedin.com/in/haseeb-ur-rahman-8b152234b)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mirza1272)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0e1a?style=for-the-badge&logo=google-chrome&logoColor=00e5ff)](https://www.mirzahaseeb.me)
 [![Email](https://img.shields.io/badge/Email-0a0e1a?style=for-the-badge&logo=gmail&logoColor=00e5ff)](mailto:mirzahaseeb0566@gmail.com)
@@ -402,7 +402,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a0e1a?style=for-the-badge&logo=LinkedIn&logoColor=00e5ff)](https://linkedin.com/in/haseeb-ur-rahman-8b152234b)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a0e1a?style=for-the-badge&logo=https://cdn.simpleicons.org/linkedin/00e5ff)](https://linkedin.com/in/haseeb-ur-rahman-8b152234b)
 &nbsp;
 [![Website](https://img.shields.io/badge/Visit_Portfolio-0a0e1a?style=for-the-badge&logo=google-chrome&logoColor=00e5ff)](https://www.mirzahaseeb.me)
 &nbsp;
