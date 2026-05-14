@@ -42,10 +42,9 @@
 
 <br/>
 
-🌍 &nbsp; **Location &nbsp;→** &nbsp; Pakistan 🇵🇰
-🎓 &nbsp; **Education &nbsp;→** &nbsp; BS Computer Science
-🔭 &nbsp; **Currently &nbsp;→** &nbsp; Building production AI pipelines
-💡 &nbsp; **Specialty &nbsp;→** &nbsp; Deep Learning · LLMs · MLOps
+🌍 &nbsp; **Location &nbsp;→** &nbsp; Pakistan 🇵🇰 <br/>
+🎓 &nbsp; **Education &nbsp;→** &nbsp; BS Computer Science <br/>
+💡 &nbsp; **Specialty &nbsp;→** &nbsp; MERN · Machine Learning · Deep Learning <br/>
 🎯 &nbsp; **Mission &nbsp;→** &nbsp; Ship AI that creates real value
 
 <br/>
