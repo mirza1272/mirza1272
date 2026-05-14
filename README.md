@@ -62,6 +62,20 @@
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,12,6,0&height=3" width="100%"/>
+
+</div>
+
+---
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,12,6,0&height=3" width="100%"/>
+
+</div>
+
+---
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   TECH STACK                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -105,6 +119,14 @@
 ![Docker](https://img.shields.io/badge/Docker-0a0e1a?style=for-the-badge&logo=docker&logoColor=00e5ff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0a0e1a?style=for-the-badge&logo=githubactions&logoColor=00e5ff)
 ![Linux](https://img.shields.io/badge/Linux-0a0e1a?style=for-the-badge&logo=linux&logoColor=00e5ff)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,12,6,0&height=3" width="100%"/>
 
 </div>
 
@@ -382,6 +404,14 @@
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,12,6,0&height=3" width="100%"/>
+
+</div>
+
+---
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                 CONTRIBUTION GRAPH + SNAKE                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -406,6 +436,14 @@
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,12,6,0&height=3" width="100%"/>
+
+</div>
+
+---
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   ACHIEVEMENTS                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -415,6 +453,14 @@
 ## 🏆 &nbsp; A C H I E V E M E N T S
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mirza1272&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,12,6,0&height=3" width="100%"/>
 
 </div>
 
@@ -457,6 +503,14 @@
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,12,6,0&height=3" width="100%"/>
+
+</div>
+
+---
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  OPEN SOURCE GOALS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -474,6 +528,14 @@
 | 📖 Write technical deep-dives on AI architecture & MLOps | 🔄 In Progress |
 | 🚀 Ship 3+ open-source projects with 100+ GitHub stars | 🎯 Target |
 | 🌱 Mentor 50+ developers on the AI/ML path by 2026 | 🎯 Target |
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,12,6,0&height=3" width="100%"/>
+
+</div>
 
 ---
 
@@ -495,6 +557,13 @@
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,12,6,0&height=3" width="100%"/>
+
+</div>
 
 ---
 
