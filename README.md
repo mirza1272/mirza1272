@@ -326,7 +326,7 @@
 | 🛠️ Build open-source AI tools for developers in emerging markets | 🔄 In Progress |
 | 📖 Write technical deep-dives on AI architecture & MLOps | 🔄 In Progress |
 | 🚀 Ship 3+ open-source projects with 100+ GitHub stars | 🎯 Target |
-| 🌱 Mentor 50+ developers on the AI/ML path by 2026 | 🎯 Target |
+| 🌱 Mentor 50+ developers on the AI/ML path  | 🎯 Target |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
 
@@ -376,4 +376,4 @@
 </div>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0a0e1a,50:0d1f3c,100:0a1628&section=footer&text=Engineered%20with%20precision.%20Powered%20by%20AI.&fontSize=16&fontColor=00e5ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0a0e1a,50:0d1f3c,100:0a1628&section=footer&text=Always%20Learning%20%E2%80%A2%20Always%20Building%20%E2%80%A2%20Always%20Evolving&fontSize=16&fontColor=00e5ff&fontAlignY=65&animation=fadeIn" width="100%"/>
