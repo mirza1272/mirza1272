@@ -217,33 +217,33 @@
 <div align="center">
 
 ## 🫁 &nbsp; Pneumonia Detection System
-### *Medical AI for Clinical Decision Support*
+### *3-Class CNN Image Classifier for Chest X-rays*
 
-[![Status](https://img.shields.io/badge/STATUS-97%25_ACCURACY-00e5ff?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272)
-[![Type](https://img.shields.io/badge/TYPE-COMPUTER_VISION_%2B_HEALTHCARE-00b8d4?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272)
+[![Status](https://img.shields.io/badge/STATUS-81%25_ACCURACY-00e5ff?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272/x-ray-chest-classification)
+[![Type](https://img.shields.io/badge/TYPE-COMPUTER_VISION-00b8d4?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272/x-ray-chest-classification)
 
 </div>
 
-> **Every second in diagnosis matters.** A high-accuracy CNN system detecting pneumonia from chest X-rays using transfer learning on ResNet-50. Grad-CAM visualizations make predictions interpretable for clinicians — built for real clinical integration, not just benchmarks.
+> **Detect pneumonia from chest X-rays with confidence.** A CNN-based classifier that distinguishes between Normal, Bacterial Pneumonia, and Viral Pneumonia from X-ray images using data augmentation and Keras-based training for robust generalization.
 
 | Feature | Description |
 |---|---|
-| 🔬 97%+ Accuracy | ResNet-50 transfer learning on X-rays |
-| 🖼️ Grad-CAM XAI | Explainable heatmap visualization |
-| 🌐 REST API | Production-ready endpoint |
+| 📸 3-Class Detection | Normal, Bacterial & Viral Pneumonia |
+| 🔄 Data Augmentation | ImageDataGenerator for better generalization |
+| 🎯 Optimized Architecture | Conv2D → MaxPool → Dense with Dropout |
 
 **🛠️ Stack**
 
+![Python](https://img.shields.io/badge/Python-0a0e1a?style=flat-square&logo=python&logoColor=00e5ff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0e1a?style=flat-square&logo=tensorflow&logoColor=00e5ff)
 ![Keras](https://img.shields.io/badge/Keras-0a0e1a?style=flat-square&logo=keras&logoColor=00e5ff)
-![OpenCV](https://img.shields.io/badge/OpenCV-0a0e1a?style=flat-square&logo=opencv&logoColor=00e5ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0e1a?style=flat-square&logo=fastapi&logoColor=00e5ff)
-![NumPy](https://img.shields.io/badge/NumPy-0a0e1a?style=flat-square&logo=numpy&logoColor=00e5ff)
-![Docker](https://img.shields.io/badge/Docker-0a0e1a?style=flat-square&logo=docker&logoColor=00e5ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0e1a?style=flat-square&logo=matplotlib&logoColor=00e5ff)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a0e1a?style=flat-square&logo=jupyter&logoColor=00e5ff)
+![Colab](https://img.shields.io/badge/Google_Colab-0a0e1a?style=flat-square&logo=googlecolab&logoColor=00e5ff)
 
 <div align="center">
 
-[![View on GitHub](https://img.shields.io/badge/VIEW_ON_GITHUB-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mirza1272/pneumonia-detection)
+[![View on GitHub](https://img.shields.io/badge/VIEW_ON_GITHUB-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mirza1272/x-ray-chest-classification)
 
 </div>
 <br/>
