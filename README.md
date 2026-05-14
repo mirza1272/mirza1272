@@ -243,7 +243,7 @@
 
 <div align="center">
 
-[![View on GitHub](https://img.shields.io/badge/VIEW_ON_GITHUB-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mirza1272/x-ray-chest-classification)
+[![View on GitHub](https://img.shields.io/badge/VIEW_ON_GITHUB-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mirza1272/X-ray-Chest-Classification-using-Deep-Learning-CNN-Pneumonia-Detection)
 
 </div>
 <br/>
@@ -251,95 +251,6 @@
 </tr>
 </table>
 
-<br/>
-
-<!-- PROJECT 4 -->
-<table>
-<tr>
-<td>
-<br/>
-
-<div align="center">
-
-## 🤖 &nbsp; AI Chatbot System
-### *Context-Aware Conversational Intelligence*
-
-[![Status](https://img.shields.io/badge/STATUS-PRODUCTION-00e5ff?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272)
-[![Type](https://img.shields.io/badge/TYPE-LLM_%2B_RAG_%2B_FULLSTACK-00b8d4?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272)
-
-</div>
-
-> **Not a chatbot. An AI reasoning engine with memory.** Built on RAG architecture with persistent conversation context, semantic knowledge retrieval, and tool-use capabilities. Supports custom knowledge base injection and multi-modal inputs — enterprise-ready from day one.
-
-| Feature | Description |
-|---|---|
-| 🧠 RAG Pipeline | Vector DB semantic retrieval |
-| 💾 Memory Management | Persistent conversation history |
-| 🔒 Enterprise Security | Auth & rate limiting |
-
-**🛠️ Stack**
-
-![LangChain](https://img.shields.io/badge/LangChain-0a0e1a?style=flat-square&logo=chainlink&logoColor=00e5ff)
-![OpenAI](https://img.shields.io/badge/OpenAI-0a0e1a?style=flat-square&logo=openai&logoColor=00e5ff)
-![Pinecone](https://img.shields.io/badge/Pinecone-0a0e1a?style=flat-square&logo=pinecone&logoColor=00e5ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0e1a?style=flat-square&logo=fastapi&logoColor=00e5ff)
-![React](https://img.shields.io/badge/React-0a0e1a?style=flat-square&logo=react&logoColor=00e5ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0e1a?style=flat-square&logo=mongodb&logoColor=00e5ff)
-
-<div align="center">
-
-[![View on GitHub](https://img.shields.io/badge/VIEW_ON_GITHUB-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mirza1272/ai-chatbot)
-
-</div>
-<br/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- PROJECT 5 -->
-<table>
-<tr>
-<td>
-<br/>
-
-<div align="center">
-
-## 🧬 &nbsp; Deep Learning Projects Suite
-### *Research-Grade Implementations, Production-Ready Quality*
-
-[![Status](https://img.shields.io/badge/STATUS-ONGOING-00e5ff?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272)
-[![Type](https://img.shields.io/badge/TYPE-DL_RESEARCH_%2B_PRODUCTION-00b8d4?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272)
-
-</div>
-
-> **Where research meets reality.** A curated suite of deep learning implementations across computer vision, NLP, and generative AI — each with full documentation, benchmark results, and deployment-ready code.
-
-| Project | Highlight |
-|---|---|
-| 🖼️ GAN Image Synthesis | DCGAN / StyleGAN training |
-| 📝 Sentiment Analysis | BERT fine-tuned models |
-| 🎯 Object Detection | YOLOv8 on custom datasets |
-
-**🛠️ Stack**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0e1a?style=flat-square&logo=pytorch&logoColor=00e5ff)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0e1a?style=flat-square&logo=huggingface&logoColor=00e5ff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0e1a?style=flat-square&logo=tensorflow&logoColor=00e5ff)
-![CUDA](https://img.shields.io/badge/CUDA-0a0e1a?style=flat-square&logo=nvidia&logoColor=00e5ff)
-![W&B](https://img.shields.io/badge/Weights_%26_Biases-0a0e1a?style=flat-square&logo=weightsandbiases&logoColor=00e5ff)
-![Jupyter](https://img.shields.io/badge/Jupyter-0a0e1a?style=flat-square&logo=jupyter&logoColor=00e5ff)
-
-<div align="center">
-
-[![View on GitHub](https://img.shields.io/badge/VIEW_ON_GITHUB-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mirza1272/deep-learning-suite)
-
-</div>
-<br/>
-</td>
-</tr>
-</table>
 
 ---
 
