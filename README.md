@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,12,6,0&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
 
 <br/>
 
@@ -58,7 +58,7 @@
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,12,6,0&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   TECH STACK                                  -->
@@ -96,13 +96,13 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e1a?style=for-the-badge&logo=postgresql&logoColor=00e5ff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0a0e1a?style=for-the-badge&logo=mongodb&logoColor=00e5ff)
-![AWS](https://img.shields.io/badge/AWS-0a0e1a?style=for-the-badge&logo=amazonaws&logoColor=00e5ff)
+![AWS](https://img.shields.io/badge/AWS-0a0e1a?style=for-the-badge&logo=amazon&logoColor=00e5ff)
 ![Supabase](https://img.shields.io/badge/Supabase-0a0e1a?style=for-the-badge&logo=supabase&logoColor=00e5ff)
 ![Appwrite](https://img.shields.io/badge/Appwrite-0a0e1a?style=for-the-badge&logo=appwrite&logoColor=00e5ff)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,12,6,0&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                 FEATURED PROJECTS                             -->
