@@ -306,7 +306,7 @@
 
 ## 🏆 &nbsp; A C H I E V E M E N T S
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mirza1272&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mirza1272&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&v=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
