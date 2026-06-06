@@ -266,7 +266,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mirza1272/mirza1272/output/streak.svg" alt="GitHub Streak Stats" width="100%"/>
+<img src="https://raw.githubusercontent.com/mirza1272/mirza1272/output/streak.svg?v=1" alt="GitHub Streak Stats" width="100%"/>
 
 <br/>
 
@@ -301,7 +301,7 @@
 
 ## 🏆 &nbsp; A C H I E V E M E N T S
 
-[![trophy](https://raw.githubusercontent.com/mirza1272/mirza1272/output/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://raw.githubusercontent.com/mirza1272/mirza1272/output/trophy.svg?v=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
