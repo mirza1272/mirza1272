@@ -266,7 +266,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mirza1272&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00e5ff&fire=00b8d4&currStreakLabel=00e5ff&sideLabels=b2ebf2&dates=9d8ca0&currStreakNum=ffffff&sideNums=ffffff" width="100%"/>
+<img src="https://raw.githubusercontent.com/mirza1272/mirza1272/output/streak.svg" alt="GitHub Streak Stats" width="100%"/>
 
 <br/>
 
@@ -301,46 +301,7 @@
 
 ## 🏆 &nbsp; A C H I E V E M E N T S
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mirza1272&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&v=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  OPEN SOURCE GOALS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🌍 &nbsp; O P E N &nbsp; S O U R C E &nbsp; G O A L S
-
-</div>
-
-| Goal | Status |
-|---|:---:|
-| 🤝 Contribute to PyTorch, LangChain & HuggingFace ecosystems | 🔄 In Progress |
-| 🛠️ Build open-source AI tools for developers in emerging markets | 🔄 In Progress |
-| 📖 Write technical deep-dives on AI architecture & MLOps | 🔄 In Progress |
-| 🚀 Ship 3+ open-source projects with 100+ GitHub stars | 🎯 Target |
-| 🌱 Mentor 50+ developers on the AI/ML path  | 🎯 Target |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  QUOTE + FUN FACT                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 💬 &nbsp; P H I L O S O P H Y
-
-> *✦ &nbsp; "I am a lifelong student of intelligence, committed to the continuous journey of learning, unlearning, and evolving to architect a better future." &nbsp; ✦*
->
-> — Haseeb ur Rahman
+[![trophy](https://raw.githubusercontent.com/mirza1272/mirza1272/output/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
