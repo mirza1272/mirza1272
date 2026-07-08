@@ -91,7 +91,7 @@ while life_is_hard:
         print(f"Stumbled this time, but no worries. I'll rise again! Retry count: {number_of_tries} 🔄")
 
     if number_of_tries == 10:
-        print("Perhaps I need to shift gears. Considering an interstellar getaway! 🛸")
+        print("Another failed attempt means another lesson learned. 📚")
         number_of_tries = 0  # Resetting the number of tries after an interstellar adventure
 
 print("Life is good, and so am I! 😊")
