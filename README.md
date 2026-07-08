@@ -63,6 +63,43 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     WHAT I DO SECTION                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 💼 What I do
+[](https://github.com/teamchong#-what-i-do)
+As a hands-on software developer, I specialize in turning ideas into reality and love bringing projects to life.
+
+```javascript
+let lifeIsHard = true;
+let numberOfTries = 0;
+
+while (lifeIsHard) {
+  console.log("Life is hard, but I'm not backing down! 💪");
+
+  if (Math.random() < 0.01) { // 1% chance of turning things around!
+    console.log("Nailed it! Overcame the challenge like a boss! 🎉");
+    lifeIsHard = false;
+    numberOfTries = 0; // resetting the number of tries on success
+  } else {
+    numberOfTries++;
+    console.log(`Stumbled this time, but no worries. I'll rise again! Retry count: ${numberOfTries} 🔄`);
+  }
+
+  if (numberOfTries === 10) {
+    console.log("Perhaps I need to shift gears. Considering an interstellar getaway! 🛸");
+    numberOfTries = 0; // resetting the number of tries after an interstellar adventure
+  }
+}
+
+console.log("Life is good, and so am I! 😊");
+```
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   TECH STACK                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -106,155 +143,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 FEATURED PROJECTS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🚀 &nbsp; F E A T U R E D &nbsp; P R O J E C T S
-
-*Engineered with intent. Deployed with purpose.*
-
-</div>
-
-<br/>
-
-<!-- PROJECT 1 -->
-<table>
-<tr>
-<td>
-<br/>
-
-<div align="center">
-
-## 🏢 &nbsp; HRConnect ATS
-### *Multi-Branch Recruitment & Applicant Tracking System*
-
-[![Status](https://img.shields.io/badge/STATUS-LIVE-00e5ff?style=flat-square&labelColor=0a0e1a)](https://hrconnect-ats.vercel.app)
-[![Type](https://img.shields.io/badge/TYPE-FULL_STACK_MERN-00b8d4?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272/Multi-Branch-Recruitment-and-Applicant-Tracking-System)
-
-</div>
-
-> **Streamline recruitment across multiple branches.** A premium full-stack ATS with real-time notifications, automated status updates, smart recommendation system, and role-based access control for candidates and recruiters.
-
-| Feature | Description |
-|---|---|
-| 🏢 Multi-Branch | Manage jobs across office branches |
-| 🔔 Real-time Updates | Automated email & OTP notifications |
-| 🤖 Smart Search | Advanced filtering & recommendations |
-
-**🛠️ Stack**
-
-![React](https://img.shields.io/badge/React-0a0e1a?style=flat-square&logo=react&logoColor=00e5ff)
-![Node.js](https://img.shields.io/badge/Node.js-0a0e1a?style=flat-square&logo=nodedotjs&logoColor=00e5ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0e1a?style=flat-square&logo=mongodb&logoColor=00e5ff)
-![SendGrid](https://img.shields.io/badge/SendGrid-0a0e1a?style=flat-square&logo=sendgrid&logoColor=00e5ff)
-![Supabase](https://img.shields.io/badge/Supabase-0a0e1a?style=flat-square&logo=supabase&logoColor=00e5ff)
-![JWT](https://img.shields.io/badge/JWT-0a0e1a?style=flat-square&logo=auth0&logoColor=00e5ff)
-
-<div align="center">
-
-[![View on GitHub](https://img.shields.io/badge/VIEW_ON_GITHUB-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mirza1272/Multi-Branch-Recruitment-and-Applicant-Tracking-System)
-
-</div>
-<br/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- PROJECT 2 -->
-<table>
-<tr>
-<td>
-<br/>
-
-<div align="center">
-
-## 📈 &nbsp; Stock Price Prediction System
-### *Machine Learning & LSTM Time-Series Forecasting*
-
-[![Status](https://img.shields.io/badge/STATUS-COMPLETE-00e5ff?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272/stock-price-prediction)
-[![Type](https://img.shields.io/badge/TYPE-ML_%2B_DEEP_LEARNING-00b8d4?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272/stock-price-prediction)
-
-</div>
-
-> **End-to-end ML pipeline for stock forecasting.** Compares classical machine learning models with LSTM deep learning for both classification (UP/DOWN) and regression (price prediction) tasks using technical indicators.
-
-| Feature | Description |
-|---|---|
-| 📊 Dual Tasks | Classification (UP/DOWN) + Regression (price prediction) |
-| 🧠 Model Ensemble | RF, SVM, XGBoost, LSTM comparison |
-| ⏱️ LSTM Time-Series | 60-day sequences with technical indicators |
-
-**🛠️ Stack**
-
-![Python](https://img.shields.io/badge/Python-0a0e1a?style=flat-square&logo=python&logoColor=00e5ff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0e1a?style=flat-square&logo=tensorflow&logoColor=00e5ff)
-![Keras](https://img.shields.io/badge/Keras-0a0e1a?style=flat-square&logo=keras&logoColor=00e5ff)
-![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-0a0e1a?style=flat-square&logo=scikitlearn&logoColor=00e5ff)
-![XGBoost](https://img.shields.io/badge/XGBoost-0a0e1a?style=flat-square&logo=python&logoColor=00e5ff)
-![Pandas](https://img.shields.io/badge/Pandas-0a0e1a?style=flat-square&logo=pandas&logoColor=00e5ff)
-
-<div align="center">
-
-[![View on GitHub](https://img.shields.io/badge/VIEW_ON_GITHUB-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mirza1272/stock-price-prediction)
-
-</div>
-<br/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- PROJECT 3 -->
-<table>
-<tr>
-<td>
-<br/>
-
-<div align="center">
-
-## 🫁 &nbsp; Pneumonia Detection System
-### *3-Class CNN Image Classifier for Chest X-rays*
-
-[![Status](https://img.shields.io/badge/STATUS-81%25_ACCURACY-00e5ff?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272/x-ray-chest-classification)
-[![Type](https://img.shields.io/badge/TYPE-COMPUTER_VISION-00b8d4?style=flat-square&labelColor=0a0e1a)](https://github.com/mirza1272/x-ray-chest-classification)
-
-</div>
-
-> **Detect pneumonia from chest X-rays with confidence.** A CNN-based classifier that distinguishes between Normal, Bacterial Pneumonia, and Viral Pneumonia from X-ray images using data augmentation and Keras-based training for robust generalization.
-
-| Feature | Description |
-|---|---|
-| 📸 3-Class Detection | Normal, Bacterial & Viral Pneumonia |
-| 🔄 Data Augmentation | ImageDataGenerator for better generalization |
-| 🎯 Optimized Architecture | Conv2D → MaxPool → Dense with Dropout |
-
-**🛠️ Stack**
-
-![Python](https://img.shields.io/badge/Python-0a0e1a?style=flat-square&logo=python&logoColor=00e5ff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0e1a?style=flat-square&logo=tensorflow&logoColor=00e5ff)
-![Keras](https://img.shields.io/badge/Keras-0a0e1a?style=flat-square&logo=keras&logoColor=00e5ff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0e1a?style=flat-square&logo=matplotlib&logoColor=00e5ff)
-![Jupyter](https://img.shields.io/badge/Jupyter-0a0e1a?style=flat-square&logo=jupyter&logoColor=00e5ff)
-![Colab](https://img.shields.io/badge/Google_Colab-0a0e1a?style=flat-square&logo=googlecolab&logoColor=00e5ff)
-
-<div align="center">
-
-[![View on GitHub](https://img.shields.io/badge/VIEW_ON_GITHUB-0a0e1a?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/mirza1272/X-ray-Chest-Classification-using-Deep-Learning-CNN-Pneumonia-Detection)
-
-</div>
-<br/>
-</td>
-</tr>
-</table>
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00e5ff&height=2" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   GITHUB STATS                                -->
