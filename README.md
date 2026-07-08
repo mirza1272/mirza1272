@@ -117,7 +117,8 @@ print("Life is good, and so am I! 😊")
 ![PyTorch](https://img.shields.io/badge/PyTorch-0a0e1a?style=for-the-badge&logo=pytorch&logoColor=00e5ff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0e1a?style=for-the-badge&logo=tensorflow&logoColor=00e5ff)
 ![Keras](https://img.shields.io/badge/Keras-0a0e1a?style=for-the-badge&logo=keras&logoColor=00e5ff)
-
+![RAG](https://img.shields.io/badge/RAG-0a0e1a?style=for-the-badge&logo=googlegemini&logoColor=00e5ff)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0a0e1a?style=for-the-badge&logo=openai&logoColor=00e5ff)
 
 ### ⚡ &nbsp; Full Stack Development
 
