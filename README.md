@@ -71,6 +71,7 @@
 ## 💼 What I do
 [](https://github.com/teamchong#-what-i-do)
 As a hands-on software developer, I specialize in turning ideas into reality and love bringing projects to life.
+</div>
 
 ```javascript
 let lifeIsHard = true;
@@ -97,7 +98,7 @@ while (lifeIsHard) {
 console.log("Life is good, and so am I! 😊");
 ```
 
-</div>
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   TECH STACK                                  -->
