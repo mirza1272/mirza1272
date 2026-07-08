@@ -73,29 +73,28 @@
 As a hands-on software developer, I specialize in turning ideas into reality and love bringing projects to life.
 </div>
 
-```javascript
-let lifeIsHard = true;
-let numberOfTries = 0;
+```python
+import random
 
-while (lifeIsHard) {
-  console.log("Life is hard, but I'm not backing down! 💪");
+life_is_hard = True
+number_of_tries = 0
 
-  if (Math.random() < 0.01) { // 1% chance of turning things around!
-    console.log("Nailed it! Overcame the challenge like a boss! 🎉");
-    lifeIsHard = false;
-    numberOfTries = 0; // resetting the number of tries on success
-  } else {
-    numberOfTries++;
-    console.log(`Stumbled this time, but no worries. I'll rise again! Retry count: ${numberOfTries} 🔄`);
-  }
+while life_is_hard:
+    print("Life is hard, but I'm not backing down! 💪")
 
-  if (numberOfTries === 10) {
-    console.log("Perhaps I need to shift gears. Considering an interstellar getaway! 🛸");
-    numberOfTries = 0; // resetting the number of tries after an interstellar adventure
-  }
-}
+    if random.random() < 0.01:  # 1% chance of turning things around!
+        print("Nailed it! Overcame the challenge like a boss! 🎉")
+        life_is_hard = False
+        number_of_tries = 0  # Resetting the number of tries on success
+    else:
+        number_of_tries += 1
+        print(f"Stumbled this time, but no worries. I'll rise again! Retry count: {number_of_tries} 🔄")
 
-console.log("Life is good, and so am I! 😊");
+    if number_of_tries == 10:
+        print("Perhaps I need to shift gears. Considering an interstellar getaway! 🛸")
+        number_of_tries = 0  # Resetting the number of tries after an interstellar adventure
+
+print("Life is good, and so am I! 😊")
 ```
 
 
